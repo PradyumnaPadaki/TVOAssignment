@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{74CC5D15-FE99-42DA-AE48-08120CA91E30}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TVOLearn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TVOLearn/TVOTest.cs">
+    <Files>
+      <File FileName="TVOLearn/Usings.cs" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/microsoft.net.test.sdk/17.5.0/build/netcoreapp3.1/Microsoft.NET.Test.Sdk.Program.cs" />
+      <File FileName="TVOLearn/TVOTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TVOLearn" expanded="True">
+            <Node name="TVOLearn" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Usings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TVOLearn" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
