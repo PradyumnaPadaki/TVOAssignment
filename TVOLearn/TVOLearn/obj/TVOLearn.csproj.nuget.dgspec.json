@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pradyumnabhimraopadaki/Projects/TVOLearn/TVOLearn/TVOLearn.csproj": {}
+    "/Users/pradyumnabhimraopadaki/Desktop/Projects/TVOLearn/TVOLearn/TVOLearn.csproj": {}
   },
   "projects": {
-    "/Users/pradyumnabhimraopadaki/Projects/TVOLearn/TVOLearn/TVOLearn.csproj": {
+    "/Users/pradyumnabhimraopadaki/Desktop/Projects/TVOLearn/TVOLearn/TVOLearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pradyumnabhimraopadaki/Projects/TVOLearn/TVOLearn/TVOLearn.csproj",
+        "projectUniqueName": "/Users/pradyumnabhimraopadaki/Desktop/Projects/TVOLearn/TVOLearn/TVOLearn.csproj",
         "projectName": "TVOLearn",
-        "projectPath": "/Users/pradyumnabhimraopadaki/Projects/TVOLearn/TVOLearn/TVOLearn.csproj",
+        "projectPath": "/Users/pradyumnabhimraopadaki/Desktop/Projects/TVOLearn/TVOLearn/TVOLearn.csproj",
         "packagesPath": "/Users/pradyumnabhimraopadaki/.nuget/packages/",
-        "outputPath": "/Users/pradyumnabhimraopadaki/Projects/TVOLearn/TVOLearn/obj/",
+        "outputPath": "/Users/pradyumnabhimraopadaki/Desktop/Projects/TVOLearn/TVOLearn/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pradyumnabhimraopadaki/.nuget/NuGet/NuGet.Config"
@@ -70,6 +70,10 @@
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.2.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
             }
           },
           "imports": [
