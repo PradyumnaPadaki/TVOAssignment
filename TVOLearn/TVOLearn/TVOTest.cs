@@ -22,7 +22,6 @@ namespace TVOLearnTests
             // Choose the required web driver by commenting the other
             ChromeSetup();
             // SafariSetup();
-
         }
 
         [Test]
@@ -57,7 +56,6 @@ namespace TVOLearnTests
                 LogError("Error: " + ex.Message);
                 throw;
             }
-
         }
 
         [Test]
@@ -110,7 +108,6 @@ namespace TVOLearnTests
                 LogError("Error: " + ex.Message);
                 throw;
             }
-
         }
 
         [Test]
@@ -458,7 +455,6 @@ namespace TVOLearnTests
 
                 // Log Message for asserting response message being displayed
                 LogStep("The response message is as expected for an invalid email id.");
-
             }
             catch (Exception ex)
             {
